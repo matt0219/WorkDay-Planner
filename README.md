@@ -10,3 +10,4 @@ This application provides a user-friendly interface for scheduling tasks through
 [![Screenshot of Application]https://github.com/matt0219/WorkDay-Planner/blob/a192dedf9fb1c98e61070ff98c2e64e7660f808c/Screenshot%202023-07-10%20175235.png]
 
 ## Link to Deployed Application
+[Deployed Application](https://matt0219.github.io/WorkDay-Planner/)
